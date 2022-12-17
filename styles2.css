@@ -1,4 +1,4 @@
-  *{
+*{
     padding: 0;
     margin: 0;
      font-family: sans-serif;
@@ -9,7 +9,7 @@ body {
     background-size: cover;
 }    
     
-.login-form {
+.Sign-Up {
      width: 350px;
      top: 50%;
      left: 50%;
@@ -19,20 +19,20 @@ body {
     +
 }
 
-.login-form h1{
+.Sign-Up h1{
      font-size:40px;
      text-align: center;
      text-transform: uppercase;
      margin: 40px 0 ;
 }
 
-.login-form p {
+.Sign-Up p {
     font-size: 20px;
     font-weight: bold;
     margin: 15px 0;
 }
 
-.login-form input {
+.Sign-Up input {
     font-size: 16px;
     width: 100%;
     padding: 15px 10px;
@@ -41,7 +41,7 @@ body {
     border-radius: 5px; 
 }
 
-.login-form button{
+.Sign-Up button{
     font-size: 18px;
     font-weight: bold;
     margin: 20px 0;
